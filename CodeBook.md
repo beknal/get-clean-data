@@ -1,25 +1,25 @@
 Folowing variable are cleaned and renamed with appropriate labels
-activityId
-subjectId
-timeBodyAccMagnitudeMean
-timeBodyAccMagnitudeStdDev
-timeGravityAccMagnitudeMean
-timeGravityAccMagnitudeStdDev
-timeBodyAccJerkMagnitudeMean
-timeBodyAccJerkMagnitudeStdDev
-timeBodyGyroMagnitudeMean
-timeBodyGyroMagnitudeStdDev
-timeBodyGyroJerkMagnitudeMean
-timeBodyGyroJerkMagnitudeStdDev
-freqBodyAccMagnitudeMean
-freqBodyAccMagnitudeStdDev
-freqBodyAccJerkMagnitudeMean
-freqBodyAccJerkMagnitudeStdDev
-freqBodyGyroMagnitudeMean
-freqBodyGyroMagnitudeStdDev
-freqBodyGyroJerkMagnitudeMean
-freqBodyGyroJerkMagnitudeStdDev
-activityType
+"activityId"	
+"subjectId"	
+"timeBodyAccMagnitudeMean"	
+"timeBodyAccMagnitudeStdDev"	
+"timeGravityAccMagnitudeMean"	
+"timeGravityAccMagnitudeStdDev"	
+"timeBodyAccJerkMagnitudeMean"	
+"timeBodyAccJerkMagnitudeStdDev"	
+"timeBodyGyroMagnitudeMean"	
+"timeBodyGyroMagnitudeStdDev"	
+"timeBodyGyroJerkMagnitudeMean"	
+"timeBodyGyroJerkMagnitudeStdDev"	
+"freqBodyAccMagnitudeMean"	
+"freqBodyAccMagnitudeStdDev"	
+"freqBodyAccJerkMagnitudeMean"	
+"freqBodyAccJerkMagnitudeStdDev"	
+"freqBodyGyroMagnitudeMean"	
+"freqBodyGyroMagnitudeStdDev"	
+"freqBodyGyroJerkMagnitudeMean"	
+"freqBodyGyroJerkMagnitudeStdDev"	
+"activityType"
 
 
 Each 'activityType' is mapped to 'activityId'
